@@ -1,5 +1,5 @@
 def what_to_wear(temperature, precipitation, heavy_precipitation):
-    if temperature > 20 and temperature < 30:
+    if temperature > 20 and temperature < 31:
         if precipitation:
             return "Футболку, шорты и зонт"
         return "Футболку и шорты"
